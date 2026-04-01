@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Game Yangu</title>
+</head>
+<body style="text-align:center; font-family:Arial;">
+
+    <h1>Karibu kwenye Game Yangu 🎮</h1>
+    <p>Bonyeza hapa kudownload game:</p>
+
+    <a href="game.apk" download>
+        <button style="padding:10px; font-size:18px;">Download Game</button>
+    </a>
+
+</body>
+</html>
